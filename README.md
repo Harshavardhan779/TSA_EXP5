@@ -1,5 +1,5 @@
 ### Developed by : HARSHAVARDHAN
-### Register no, : 212222240114
+### Register no. : 212222240114
 ### Date: 
 # Ex.No: 05  IMPLEMENTATION OF TIME SERIES ANALYSIS AND DECOMPOSITION
 
